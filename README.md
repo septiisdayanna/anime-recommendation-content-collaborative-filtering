@@ -25,7 +25,7 @@ Dengan puluhan ribu judul anime yang tersedia, pengguna sering kesulitan menemuk
 - **Data processing:** pandas, NumPy
 - **Content-Based Filtering:** scikit-learn (`TfidfVectorizer`, `MinMaxScaler`, `cosine_similarity`)
 - **Collaborative Filtering:** TensorFlow / Keras (custom `Embedding` layer, `tf.keras.Model`)
-- **Visualisasi:** *(sesuai laporan menggunakan bar chart, histogram, pie chart, boxplot — [PERLU DIISI] library spesifik: matplotlib/seaborn/plotly)*
+- **Visualisasi:** *(sesuai laporan menggunakan bar chart, histogram, pie chart, boxplot. library spesifik: matplotlib/seaborn/plotly)*
 
 ## How It Works / Methodology
 
